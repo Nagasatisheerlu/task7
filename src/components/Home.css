@@ -1,0 +1,10 @@
+/* src/components/Home.css */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px; /* Adds space above the image */
+}
+
+h2 {
+    margin-top: 20px;
+}
